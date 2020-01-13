@@ -1,2 +1,2 @@
 # HardwareMonitor
- 利用OpenHardwareMonitorLib.dll读取电脑硬件数据(需管理员权限运行)
+ 利用"OpenHardwareMonitorLib.dll"读取电脑硬件数据(脚本需要管理员权限运行)
